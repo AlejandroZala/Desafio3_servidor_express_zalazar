@@ -1,0 +1,92 @@
+[
+	{
+		"title": "Crema nutritiva",
+		"description": "con malba",
+		"price": 1500,
+		"thumbnail": "Link imagen producto1",
+		"code": "c1",
+		"stock": 30,
+		"id": 1
+	},
+	{
+		"title": "Crema humectante",
+		"description": "con aloe Vera",
+		"price": 3000,
+		"thumbnail": "Link imagen producto2",
+		"code": "c2",
+		"stock": 40,
+		"id": 2
+	},
+	{
+		"title": "Crema de limpieza",
+		"description": "con arcilla",
+		"price": 2500,
+		"thumbnail": "Link imagen producto3",
+		"code": "c3",
+		"stock": 35,
+		"id": 3
+	},
+	{
+		"title": "Crema antiarrugas",
+		"description": "con vitamina E",
+		"price": 3500,
+		"thumbnail": "Link imagen producto4",
+		"code": "c4",
+		"stock": 45,
+		"id": 4
+	},
+	{
+		"title": "Crema descontracturante",
+		"description": "con alcanfor",
+		"price": 1500,
+		"thumbnail": "Link imagen producto5",
+		"code": "c5",
+		"stock": 25,
+		"id": 5
+	},
+	{
+		"title": "Gel de caléndula",
+		"description": "con caléndula",
+		"price": 2800,
+		"thumbnail": "Link imagen producto6",
+		"code": "g1",
+		"stock": 40,
+		"id": 6
+	},
+	{
+		"title": "Gel de criógeno",
+		"description": "con mentol",
+		"price": 1700,
+		"thumbnail": "Link imagen producto7",
+		"code": "g2",
+		"stock": 30,
+		"id": 7
+	},
+	{
+		"title": "Gel muscular",
+		"description": "con jarilla",
+		"price": 2100,
+		"thumbnail": "Link imagen producto8",
+		"code": "c3",
+		"stock": 50,
+		"id": 8
+	},
+	{
+		"title": "Loción antiacné",
+		"description": "con equsetum",
+		"price": 2900,
+		"thumbnail": "Link imagen producto9",
+		"code": "l1",
+		"stock": 30,
+		"id": 9
+	},
+	{
+		"title": "Crema desinflamatoria",
+		"description": "con aloe Vera",
+		"price": 1900,
+		"thumbnail": "Link imagen producto10",
+		"code": "c3",
+		"stock": 40,
+		"id": 10
+	}
+]
